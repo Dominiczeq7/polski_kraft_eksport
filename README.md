@@ -1,5 +1,5 @@
 # Polski kraft eksport
-Program służący do eksportu ocen z danego profilu na serwisie www.polskikraft.pl
+Program w języku python służący do eksportu ocen z danego profilu na serwisie www.polskikraft.pl
 
 ## Wołanie:
 pk_export.py --user_id <user_id> ?--file_name <file_name>? ?--bjcp_rating? ?--with_details?
